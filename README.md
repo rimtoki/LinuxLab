@@ -27,7 +27,7 @@ Uninstall Suricata followed by verification:  <br/>
 <img src="https://i.imgur.com/zXo4tAE.jpeg" height="80%" width="80%" alt="Installing Software Linux"/>
 <br />
 <br />
-Install txcpdump:  <br/>
+Install tcpdump:  <br/>
 <img src="https://i.imgur.com/wfO4xR8.jpeg" height="80%" width="80%" alt="Installing Software Linux"/>
 <br />
 <br />
