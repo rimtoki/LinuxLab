@@ -87,7 +87,6 @@ Changing directory permissions, removing execute permission for the group in the
 <h2>Program walk-through (Authenticate Users):</h2>
 
 <p align="center">
-  
 Adding a new user researcher9, then add the new user to research_team group:  <br/>
 <img src="https://i.imgur.com/hQzUOXQ.jpeg" height="80%" width="80%" alt="Authenticate Users"/>
 <br />
