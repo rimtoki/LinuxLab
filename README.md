@@ -4,10 +4,6 @@
 Project consists of installing software in a Linux distribution, manage file content in Bash, authorize file permissions and authenticate users.
 <br />
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Bash</b> 
-
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (22H2)
